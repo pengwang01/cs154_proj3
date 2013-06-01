@@ -1,0 +1,479 @@
+number of bits: 3
+number of blocks: 4
+malloc 4 blocks for set
+malloc 4 blocks for set
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 0
+DEBUG: checking at index 0 valid bit = 0 tag = 0
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 0 tag = 0 MRU = 0
+index: 2 valid = 0 tag = 0 MRU = 0
+index: 3 valid = 0 tag = 0 MRU = 0
+
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 0 tag = 0 MRU = 0
+index: 2 valid = 0 tag = 0 MRU = 0
+index: 3 valid = 0 tag = 0 MRU = 0
+0: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 0
+DEBUG: checking at index 0 valid bit = 1 tag = 0
+4: Hit? 1
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 1
+DEBUG: checking at index 1 valid bit = 0 tag = 0
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 0 MRU = 1
+index: 2 valid = 0 tag = 0 MRU = 0
+index: 3 valid = 0 tag = 0 MRU = 0
+
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 0 tag = 0 MRU = 0
+index: 2 valid = 0 tag = 0 MRU = 0
+index: 3 valid = 0 tag = 0 MRU = 0
+8: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 1
+DEBUG: checking at index 1 valid bit = 1 tag = 0
+12: Hit? 1
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 2
+DEBUG: checking at index 2 valid bit = 0 tag = 0
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 0 MRU = 1
+index: 2 valid = 1 tag = 0 MRU = 1
+index: 3 valid = 0 tag = 0 MRU = 0
+
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 0 tag = 0 MRU = 0
+index: 2 valid = 0 tag = 0 MRU = 0
+index: 3 valid = 0 tag = 0 MRU = 0
+16: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 2
+DEBUG: checking at index 2 valid bit = 1 tag = 0
+20: Hit? 1
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 3
+DEBUG: checking at index 3 valid bit = 0 tag = 0
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 0 MRU = 1
+index: 2 valid = 1 tag = 0 MRU = 1
+index: 3 valid = 1 tag = 0 MRU = 1
+
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 0 tag = 0 MRU = 0
+index: 2 valid = 0 tag = 0 MRU = 0
+index: 3 valid = 0 tag = 0 MRU = 0
+24: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 3
+DEBUG: checking at index 3 valid bit = 1 tag = 0
+28: Hit? 1
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 1 index: 0
+DEBUG: checking at index 0 valid bit = 1 tag = 0
+DEBUG: checking at index 0 valid bit = 0 tag = 0
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 1
+index: 2 valid = 0 tag = 0 MRU = 0
+index: 3 valid = 0 tag = 0 MRU = 0
+
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 0 MRU = 1
+index: 3 valid = 1 tag = 0 MRU = 1
+32: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 1 index: 0
+DEBUG: checking at index 0 valid bit = 1 tag = 0
+DEBUG: checking at index 0 valid bit = 0 tag = 0
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 1
+index: 2 valid = 0 tag = 0 MRU = 0
+index: 3 valid = 0 tag = 0 MRU = 0
+
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 0 MRU = 1
+index: 3 valid = 1 tag = 0 MRU = 1
+36: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 1 index: 1
+DEBUG: checking at index 1 valid bit = 1 tag = 0
+DEBUG: checking at index 1 valid bit = 1 tag = 0
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 0 MRU = 1
+index: 3 valid = 1 tag = 0 MRU = 1
+
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 0 tag = 0 MRU = 0
+index: 3 valid = 0 tag = 0 MRU = 0
+40: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 1 index: 1
+DEBUG: checking at index 1 valid bit = 1 tag = 1
+44: Hit? 1
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 2 index: 0
+DEBUG: checking at index 0 valid bit = 1 tag = 0
+DEBUG: checking at index 0 valid bit = 0 tag = 0
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 0 MRU = 1
+index: 3 valid = 0 tag = 0 MRU = 0
+
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 0 MRU = 0
+index: 3 valid = 1 tag = 0 MRU = 1
+64: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 2 index: 0
+DEBUG: checking at index 0 valid bit = 1 tag = 0
+DEBUG: checking at index 0 valid bit = 0 tag = 0
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 0 MRU = 1
+index: 3 valid = 0 tag = 0 MRU = 0
+
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 0 MRU = 0
+index: 3 valid = 1 tag = 0 MRU = 1
+68: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 2 index: 1
+DEBUG: checking at index 1 valid bit = 1 tag = 1
+DEBUG: checking at index 1 valid bit = 1 tag = 0
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 1 MRU = 1
+index: 3 valid = 0 tag = 0 MRU = 0
+
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 0 MRU = 0
+index: 3 valid = 1 tag = 0 MRU = 1
+72: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 2 index: 1
+DEBUG: checking at index 1 valid bit = 1 tag = 1
+DEBUG: checking at index 1 valid bit = 1 tag = 0
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 1 MRU = 1
+index: 3 valid = 0 tag = 0 MRU = 0
+
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 0 MRU = 0
+index: 3 valid = 1 tag = 0 MRU = 1
+76: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 2 index: 2
+DEBUG: checking at index 2 valid bit = 1 tag = 0
+DEBUG: checking at index 2 valid bit = 1 tag = 1
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 2 MRU = 1
+index: 3 valid = 1 tag = 0 MRU = 1
+
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 1 MRU = 0
+index: 3 valid = 0 tag = 0 MRU = 0
+80: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 2 index: 2
+DEBUG: checking at index 2 valid bit = 1 tag = 2
+84: Hit? 1
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 2 index: 3
+DEBUG: checking at index 3 valid bit = 1 tag = 0
+DEBUG: checking at index 3 valid bit = 0 tag = 0
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 3 MRU = 1
+index: 3 valid = 0 tag = 0 MRU = 0
+
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 2 MRU = 0
+index: 3 valid = 1 tag = 0 MRU = 1
+88: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 2 index: 3
+DEBUG: checking at index 3 valid bit = 1 tag = 0
+DEBUG: checking at index 3 valid bit = 0 tag = 0
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 3 MRU = 1
+index: 3 valid = 0 tag = 0 MRU = 0
+
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 2 MRU = 0
+index: 3 valid = 1 tag = 0 MRU = 1
+92: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 3 index: 0
+DEBUG: checking at index 0 valid bit = 1 tag = 0
+DEBUG: checking at index 0 valid bit = 0 tag = 0
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 3 MRU = 1
+index: 3 valid = 1 tag = 0 MRU = 1
+
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 2 MRU = 0
+index: 3 valid = 1 tag = 0 MRU = 0
+96: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 3 index: 0
+DEBUG: checking at index 0 valid bit = 1 tag = 0
+DEBUG: checking at index 0 valid bit = 0 tag = 0
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 3 MRU = 1
+index: 3 valid = 1 tag = 0 MRU = 1
+
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 2 MRU = 0
+index: 3 valid = 1 tag = 0 MRU = 0
+100: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 3 index: 1
+DEBUG: checking at index 1 valid bit = 1 tag = 1
+DEBUG: checking at index 1 valid bit = 1 tag = 0
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 3 MRU = 1
+index: 3 valid = 1 tag = 1 MRU = 1
+
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 2 MRU = 0
+index: 3 valid = 1 tag = 0 MRU = 0
+104: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 3 index: 1
+DEBUG: checking at index 1 valid bit = 1 tag = 1
+DEBUG: checking at index 1 valid bit = 1 tag = 0
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 3 MRU = 1
+index: 3 valid = 1 tag = 1 MRU = 1
+
+index: 0 valid = 1 tag = 0 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 2 MRU = 0
+index: 3 valid = 1 tag = 0 MRU = 0
+108: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 0
+DEBUG: checking at index 0 valid bit = 1 tag = 0
+0: Hit? 1
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 0
+DEBUG: checking at index 0 valid bit = 1 tag = 0
+4: Hit? 1
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 1
+DEBUG: checking at index 1 valid bit = 1 tag = 1
+DEBUG: checking at index 1 valid bit = 1 tag = 0
+8: Hit? 1
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 1
+DEBUG: checking at index 1 valid bit = 1 tag = 1
+DEBUG: checking at index 1 valid bit = 1 tag = 0
+12: Hit? 1
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 2
+DEBUG: checking at index 2 valid bit = 1 tag = 2
+DEBUG: checking at index 2 valid bit = 1 tag = 3
+index: 0 valid = 1 tag = 2 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 2 MRU = 0
+index: 3 valid = 1 tag = 0 MRU = 0
+
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 3 MRU = 1
+index: 3 valid = 1 tag = 1 MRU = 1
+16: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 2
+DEBUG: checking at index 2 valid bit = 1 tag = 2
+DEBUG: checking at index 2 valid bit = 1 tag = 3
+index: 0 valid = 1 tag = 2 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 1
+index: 2 valid = 1 tag = 2 MRU = 0
+index: 3 valid = 1 tag = 0 MRU = 0
+
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 0
+index: 2 valid = 1 tag = 3 MRU = 1
+index: 3 valid = 1 tag = 1 MRU = 1
+20: Hit? 0
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 3
+DEBUG: checking at index 3 valid bit = 1 tag = 0
+24: Hit? 1
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 0 index: 3
+DEBUG: checking at index 3 valid bit = 1 tag = 0
+28: Hit? 1
+------------------------------------------
+indexBits: 2
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 27
+DEBUG: after decode tag: 1 index: 0
+DEBUG: checking at index 0 valid bit = 1 tag = 2
+DEBUG: checking at index 0 valid bit = 0 tag = 0
+index: 0 valid = 0 tag = 0 MRU = 0
+index: 1 valid = 1 tag = 0 MRU = 1
+index: 2 valid = 1 tag = 3 MRU = 1
+index: 3 valid = 1 tag = 1 MRU = 1
+
+index: 0 valid = 1 tag = 2 MRU = 1
+index: 1 valid = 1 tag = 1 MRU = 0
+index: 2 valid = 1 tag = 2 MRU = 0
+index: 3 valid = 1 tag = 0 MRU = 0
+32: Hit? 0
+------------------------------------------
+
+33 Accesses, 21 Misses
+Total access time: 2152

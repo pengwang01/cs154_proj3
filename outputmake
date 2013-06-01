@@ -1,0 +1,271 @@
+number of bits: 3
+number of blocks: 40
+malloc 40 blocks for set
+malloc 40 blocks for set
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 0
+set at index 0 valid = 0
+0: Hit? 0
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 0
+set at index 0 valid = 1
+4: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 1
+set at index 1 valid = 0
+8: Hit? 0
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 1
+set at index 1 valid = 1
+12: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 2
+set at index 2 valid = 0
+16: Hit? 0
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 2
+set at index 2 valid = 1
+20: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 3
+set at index 3 valid = 0
+24: Hit? 0
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 3
+set at index 3 valid = 1
+28: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 4
+set at index 4 valid = 0
+32: Hit? 0
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 4
+set at index 4 valid = 1
+36: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 5
+set at index 5 valid = 0
+40: Hit? 0
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 5
+set at index 5 valid = 1
+44: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 8
+set at index 8 valid = 0
+64: Hit? 0
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 8
+set at index 8 valid = 1
+68: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 9
+set at index 9 valid = 0
+72: Hit? 0
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 9
+set at index 9 valid = 1
+76: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 10
+set at index 10 valid = 0
+80: Hit? 0
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 10
+set at index 10 valid = 1
+84: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 11
+set at index 11 valid = 0
+88: Hit? 0
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 11
+set at index 11 valid = 1
+92: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 12
+set at index 12 valid = 0
+96: Hit? 0
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 12
+set at index 12 valid = 1
+100: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 13
+set at index 13 valid = 0
+104: Hit? 0
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 13
+set at index 13 valid = 1
+108: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 0
+set at index 0 valid = 1
+0: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 0
+set at index 0 valid = 1
+4: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 1
+set at index 1 valid = 1
+8: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 1
+set at index 1 valid = 1
+12: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 2
+set at index 2 valid = 1
+16: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 2
+set at index 2 valid = 1
+20: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 3
+set at index 3 valid = 1
+24: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 3
+set at index 3 valid = 1
+28: Hit? 1
+indexBits: 6
+blockOffsetBits: 1
+byteOffsetBits: 2
+tagBits: 23
+---------------------------------------
+DEBUG: after decode tag: 0 index: 4
+set at index 4 valid = 1
+32: Hit? 1
+
+33 Accesses, 12 Misses
+Total access time: 1233

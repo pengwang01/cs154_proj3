@@ -1,0 +1,52 @@
+//Group: Carina Rammelkamp, Andro Stotts, Peng Wang
+//CS154, Project 3
+#ifndef CACHESIM_H
+#define CACHESIM_H
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <limits.h>
+
+typedef struct _set{
+	int valid;
+	unsigned int tag;
+}Set;
+
+typedef struct _cache{
+	int blocksize;
+	int cachesize;
+	int type;
+	int misscount;
+	int accesscount;
+	int accesstime;
+	int numsets;
+	Set **set;
+	Set **set1;
+	Set **set2;
+	Set **set3;
+}Cache;
+
+
+/*You have a struct that contains all of the information for one cache. In this function, you create the cache and initialize it, returning a pointer to the struct. Because you are determining the struct, you return a void * to our main. Type 0 is a direct-mapped cache. Type 1 is a pseudo-associative cache. Type 2 is a 4-way set associative cache.*/
+void *createAndInitialize(int blocksize, int cachesize, int type);
+
+/*In this function, we access the cache with a particular address. If the address results in a hit, return 1. If it is a miss, return 0.*/
+int accessCache(void *cache, int address);
+
+/*This returns the number of misses that have occurred so far*/
+int missesSoFar(void *cache);
+
+/*This returns the number of accesses that have occurred so far*/
+int accessesSoFar(void *cache);
+
+/*This returns the total number of cycles that all of the accesses have taken so far.*/
+int totalAccessTime(void *cache);
+
+int calculatesets(int blocksize, int cachesize);
+int logbase2(int n);
+void initializeSet(Set** set, int numsets);
+int missOrHit(int valid, unsigned int cachetag, unsigned int tag);
+int roundUp(int x);
+
+#endif
+
